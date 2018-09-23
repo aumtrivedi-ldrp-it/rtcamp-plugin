@@ -46,8 +46,6 @@ You don't need to worry about that because before displaying the list of contrib
 3. /screenshots/three.jpg shows author archive page.
 ![Author Archive Page](https://github.com/aumtrivedi-ldrp-it/rtcamp-plugin/blob/master/screenshots/three.png)
 
-## Changelog
-
 ### 1.0
 - Plugin Created
 - List of contributor(Editor/author/administrator)
@@ -55,7 +53,7 @@ You don't need to worry about that because before displaying the list of contrib
 ## Demo
 https://aum-rtcamp.000webhostapp.com/2018/09/this-post-from-admin
 
-## Sources
+## Sources 
 
 - WordPress Codex
 - The Almighty Google
